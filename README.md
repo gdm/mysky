@@ -3,9 +3,9 @@
 
 ## Overview
 
-The goal of this project is to involve as much people as possible for regulary making and uploading geotagged photos of the sky.
+The goal of this project is to involve as much people as possible for regularly making and uploading geotagged photos of the sky.
 
-Complete solution for collecting photos of the sky can be devided into the following parts
+Complete solution for collecting photos of the sky can be divided into the following parts
 
   1.  Mobile application(s) that allows to make, geotag and upload photos
   2.  Server-side application/storage
@@ -19,7 +19,7 @@ Making photos of the sky and uploading them to the server is an additional work 
 
 Doing the job of making photos will be more attractive if
 
- 1.  Person undestands that by doing this he is making the world better.<br/>
+ 1.  Person understands that by doing this he is making the world better.<br/>
      It should be enough information how the collected data is important.
  2.  It's easy to do.<br/>
      Mobile app and server-side should work smoothly and be easy to use.
@@ -29,7 +29,7 @@ Doing the job of making photos will be more attractive if
      User should be able browse uploaded photos, share them in social networks/etc. <br/>
      Other services like sharing geoposition may be also integrated (as soon as uploaded photo of the sky will contains geotag) <br/>
      An additional disk space for the user may be given (depends of the number of uploaded sky photos)<br/>
- 5.  He can share his achievment to others (+ involve another participants)<br/>
+ 5.  He can share his achievement to others (+ involve another participants)<br/>
      It should be possible to get number of uploaded photos as a picture for showing the status
 
 
@@ -42,3 +42,6 @@ Doing the job of making photos will be more attractive if
 
 
 ### References
+
+1. Challenge https://2014.spaceappschallenge.org/challenge/my-sky-color/
+2. Source code of Spy Camera (Android) https://bitbucket.org/jimmod/spy-camera-os/wiki/Home
